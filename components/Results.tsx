@@ -1,7 +1,5 @@
-
-
 // @ts-ignore
-import { Key } from "react";
+import {Key} from "react";
 import Thumbnail from "./Thumbnail";
 
 // @ts-ignore
